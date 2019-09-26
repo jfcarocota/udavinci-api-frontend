@@ -1,0 +1,13 @@
+body{
+    background-color: #283457;
+    color: white;
+    text-align: justify;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title-api{
+    background-color: #fcbe5d;
+    width: 100%;
+    color: #283457;
+}
